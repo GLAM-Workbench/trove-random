@@ -1,5 +1,7 @@
 # Random items from Trove
 
+Current version: [v1.0.0](https://github.com/GLAM-Workbench/trove-random/releases/tag/v1.0.0)
+
 Changes to the Trove API mean that the techniques I've previously used to select resources at random [will no longer work](https://updates.timsherratt.org/2019/10/09/creators-and-users.html). This repository includes some alternative ways of retrieving *random-ish* works and newspaper articles from Trove. While I've tried to mix things up and get as deep into the results set as possible, it's likely that some items are still inaccessible. So while the results will appear random, they may in fact be filtered due to the way facets are applied and delivered through the API. I hope that in the future Trove will provide a random sort option to avoid these problems.
 
 ## Notebook topics
